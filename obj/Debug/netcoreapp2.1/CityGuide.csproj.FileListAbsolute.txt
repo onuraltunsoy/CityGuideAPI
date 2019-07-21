@@ -1,0 +1,14 @@
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/bin/Debug/netcoreapp2.1/CityGuide.deps.json
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/bin/Debug/netcoreapp2.1/CityGuide.runtimeconfig.json
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/bin/Debug/netcoreapp2.1/CityGuide.runtimeconfig.dev.json
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/bin/Debug/netcoreapp2.1/CityGuide.dll
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/bin/Debug/netcoreapp2.1/CityGuide.pdb
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.csprojAssemblyReference.cache
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.csproj.CoreCompileInputs.cache
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.RazorAssemblyInfo.cache
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.RazorAssemblyInfo.cs
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.AssemblyInfoInputs.cache
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.AssemblyInfo.cs
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.RazorTargetAssemblyInfo.cache
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.dll
+/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/Debug/netcoreapp2.1/CityGuide.pdb

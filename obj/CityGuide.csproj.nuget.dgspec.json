@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/CityGuide.csproj": {}
+  },
+  "projects": {
+    "/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/CityGuide.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/CityGuide.csproj",
+        "projectName": "CityGuide",
+        "projectPath": "/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/CityGuide.csproj",
+        "packagesPath": "/Users/onuraltunsoy/.nuget/packages/",
+        "outputPath": "/Users/onuraltunsoy/Documents/CityGuide/CityGuideAPI/CityGuide/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/onuraltunsoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NpgSql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
