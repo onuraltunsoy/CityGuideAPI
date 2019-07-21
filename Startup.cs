@@ -16,6 +16,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using CityGuide.Helpers;
 
 namespace CityGuide
 {
@@ -56,6 +57,9 @@ namespace CityGuide
 
                 };
             });
+        
+            services.Configure<CloudinarySettings>(Configuration.GetSection("CloudinarySettings"));
+
             services.AddScoped<IAppRepository, AppRepository>();
             services.AddScoped<IAuthRepository, AuthRepository>();
         }
