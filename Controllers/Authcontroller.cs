@@ -42,7 +42,7 @@ namespace CityGuide.Controllers
             var createdUser = await _authRepository.Register(usertoCreate, userForRegisterDto.Password);
             return StatusCode(201);
         }
-        
+
         [HttpPost("login")]
         public async Task<ActionResult> Login([FromBody]UserForLoginDto userForLogin)
         {
@@ -67,6 +67,7 @@ namespace CityGuide.Controllers
             };
             var token = tokenHandler.CreateToken(tokenDescriptor);
             var tokenString = tokenHandler.WriteToken(token);
+
             return Ok(tokenString);
         }
     }
